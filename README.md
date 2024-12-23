@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Data Analysis
+- 🖥 Data Analysis, Engineering
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Cairo
 - 🎓 NanoDegree Graduate By ITIDA FWD
 - 🎓 Data Analyst Career Track Graduate By DataCamp
 
 ### 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on Power BI Tool!
-- Data Analysis Projects such Financial Analysis, Building Reports.
+- Working on BI Tool, Data Engineering Fundamentals!
+- Data Analysis Projects such as Financial Analysis, Building Reports, ETL, and Data Pipelines.
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 - 	- Remotely Joining GAFA Companies.
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 Microsoft Platforms
-  	- Initiating My Personal Business
+  	- Initiating My Business
