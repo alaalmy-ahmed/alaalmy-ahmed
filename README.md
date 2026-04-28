@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on BI Tool, Data Engineering Fundamentals!
+- Working on Power BI, Data Engineering Fundamentals!
 - Data Analysis Projects such as Financial Analysis, Building Reports, ETL, and Data Pipelines.
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
