@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Analysis, Engineering
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Cairo
 - 🎓 NanoDegree Graduate By ITIDA FWD
 - 🎓 Data Analyst Career Track Graduate By DataCamp
 - 🎓 Data Engineer Career Track Graduate By DataCamp
